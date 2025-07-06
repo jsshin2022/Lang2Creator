@@ -1,0 +1,4 @@
+channel_id,channel_name,category,subscriber_count,total_views,video_count,avg_views_per_video
+UC1234567890,Creator_001,Gaming,100000,1500000,50,30000
+UC2345678901,Creator_002,Beauty,120000,1800000,60,30000
+UC3456789012,Creator_003,Education,80000,1000000,40,25000
